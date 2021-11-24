@@ -2,7 +2,7 @@
 
 ## 📄 Sobre
 <p align ="center">
-<p>Esta é a primeira landing page construída durante o Bootcamp da Generation, inicialamente trata-se de um perfil no qual estarão os projetos que construí.</p>
+<p>Esta é a primeira landing page construída durante o Bootcamp da Generation, inicialmente trata-se de um perfil no qual estarão os projetos que construí.</p>
 </p>
 <br>
 
